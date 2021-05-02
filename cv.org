@@ -70,7 +70,7 @@ a US patent attorney and have filed several patents:
 * *Independent Research* [Apr 2019 - Dec 2019]
 
 Independently designed and implemented my own blockchain
-system in Forth and Common Lisp aimed at Internet Of Things
+system in Forth and Common Lisp aimed to Internet Of Things
 
 * *Blockchain researcher* at *Waves* [Sep 2018 — Dec 2019]
 
