@@ -4,3 +4,9 @@ BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
 **** Reference
      - https://github.com/punchagan/resume
      - http://www.latextemplates.com/template/plasmati-graduate-cv
+
+Requirements:
+- install packages (apt-get install):
+  - texlive
+  - texlive-latex-extra
+  - texlive-lang-italian
